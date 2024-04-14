@@ -67,33 +67,33 @@ dt.predict([[5,6]])
 ```
 
 ## OUTPUT:
-```
-df.head()
-```
+
+## df.head()
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/3293b7de-0326-408f-8f73-424b654b224d)
-```
-df.info()
-```
+
+## df.info()
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/09988f91-43df-4784-8df9-615664d78bf2)
-```
-data.isnull().sum()
-```
+
+## data.isnull().sum()
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/20fb64f3-534f-41de-94ba-933c425356b2)
-```
-data.head()for position
-```
+
+## data.head()for position
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/fec45cb6-b7c9-44f3-b863-1c67eb4158c0)
-```
- MSE value
-```
+
+## MSE value
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/fec45cb6-b7c9-44f3-b863-1c67eb4158c0)
-```
-R2 value
-```
+
+## R2 value
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/6ce9a84c-d867-42a7-82d0-13f3741dd02f)
-```
-Prediction value
-```
+
+## Prediction value
+
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/3cf92e12-cbfc-4f9c-94ff-3f9cd3a06eac)
 
 
