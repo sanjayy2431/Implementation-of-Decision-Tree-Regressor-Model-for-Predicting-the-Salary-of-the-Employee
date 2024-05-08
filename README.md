@@ -71,7 +71,14 @@ dt.predict([[5,6]])
 ## df.head()
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/3293b7de-0326-408f-8f73-424b654b224d)
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## df.info()
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/09988f91-43df-4784-8df9-615664d78bf2)
@@ -87,6 +94,13 @@ dt.predict([[5,6]])
 ## MSE value
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/fec45cb6-b7c9-44f3-b863-1c67eb4158c0)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## R2 value
 
@@ -95,7 +109,25 @@ dt.predict([[5,6]])
 ## Prediction value
 
 ![image](https://github.com/sanjayy2431/Implementation-of-Decision-Tree-Regressor-Model-for-Predicting-the-Salary-of-the-Employee/assets/149365143/3cf92e12-cbfc-4f9c-94ff-3f9cd3a06eac)
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## Result:
 Thus the program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee is written and verified using python programming.
